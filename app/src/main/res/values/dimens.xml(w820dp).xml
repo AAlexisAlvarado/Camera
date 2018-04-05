@@ -1,0 +1,6 @@
+<resources>
+
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="alto">80dp</dimen>
+    <dimen name="ancho">400dp</dimen>
+</resources>
